@@ -1,5 +1,5 @@
 {
   "version": "1.1.2",
-  "url": "https://pan.baidu.com/s/1wAIo0Fm8SVJCRRntkQkoqg?pwd=7gkh",
-  "notes": "## v1.1.2\n- 新增 OTA 版本提醒\n- 三星 ADB 激活升级为 8 条 AT 命令完整序列\n- 波特率 1200 / 115200 自动切换"
+  "url": "https://",
+  "notes": "## v1.1.2\n- 新增 MTK 机型的BL解锁\n- 新增 高通 机型的BL解锁\n- 支持部分机型SIM卡解锁和个别机型强制跳转到深刷模式"
 }
