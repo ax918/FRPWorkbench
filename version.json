@@ -1,1 +1,5 @@
-
+{
+  "version": "1.2.0",
+  "url": "https://github.com/ax918/FRPWorkbench/releases/latest",
+  "notes": "## v1.2.0\n- 新增 OTA 版本提醒\n- 三星 ADB 激活升级为 8 条 AT 命令完整序列\n- 波特率 1200 / 115200 自动切换"
+}
